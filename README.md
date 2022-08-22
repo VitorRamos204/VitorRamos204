@@ -3,7 +3,7 @@
 ### Currently learning Python 💻
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-eliel-42a764234/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-ramos2759/)
 
 [![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorRamos204&theme=midnight-purple)](https://github.com/VitorRamos204)
 
