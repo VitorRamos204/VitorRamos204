@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitor Ramos</h1>
 <h3 align="center">A back-end developer from Brazil</h3>
-https://www.horizont.com.hr/posao/backend-developer.gif
 
 - 🌱 I’m currently learning **Cloud Computing (AWS)**
 
